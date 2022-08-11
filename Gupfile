@@ -1,5 +1,0 @@
-scripts/as:
-  src/*.o
-
-scripts/link:
-  game.gbc

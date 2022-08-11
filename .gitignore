@@ -1,4 +1,3 @@
-*.o
+obj/
 *.gbc
-/inputs
-.gup/
+*.gbc.d
